@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - category.contains("meetings notes")
+    order:
+      - file.name
+      - date
+      - people
+      - country
+    columnSize:
+      note.people: 180

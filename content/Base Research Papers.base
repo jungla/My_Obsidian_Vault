@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - category.contains("research")
+    order:
+      - file.name
+      - people
+      - date
+      - country
+      - status
+      - topic
+    columnSize:
+      file.name: 307
+      note.people: 148
+      note.date: 102

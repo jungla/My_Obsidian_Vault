@@ -1,0 +1,28 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - category.contains("outreach")
+    order:
+      - file.name
+      - date
+      - reviewed
+      - temporary
+      - country
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 231
+      note.date: 276
+  - type: table
+    name: View
+    filters:
+      and:
+        - category.contains("outreach")
+    order:
+      - file.name
+      - date
+      - country
+      - reviewed

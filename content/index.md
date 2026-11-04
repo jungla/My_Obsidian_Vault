@@ -1,8 +1,9 @@
 ---
-title: Welcome
 publish: true
+title: My_Obsidian_Vault
+created: 2026-09-22T10:55:06.542Z
+modified: 2026-09-22T10:55:06.857Z
+published: 2026-09-22T10:55:06.857Z
 ---
 
-Welcome to your Quartz site! This is your home page.
-
-Edit this note in Obsidian, then publish it with Quartz Syncer.
+This file has been created automatically by GitHub Publish plugin. Quartz expects a 'index.md' at the top level to render the home page of your site, feel free to edit the title and write your content!

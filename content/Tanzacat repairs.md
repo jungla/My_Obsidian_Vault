@@ -1,0 +1,10 @@
+- Downhaul: Modify to go under the beam.
+- Spinnaker Cleat & Halyard Assembly: Replace the spinnaker cleat and halyard; fix the rotten assembly using a plate.
+- Boom Attachment: Fix the rotten attachment for the boom using a plate.
+- Diamond Wire Connection: Realign the connection that is currently misaligned.
+- Diamond Wire: Check with Sachin for a spare and replace it.
+- Top Cap: Check with Charles for a spare part. If available, give it to Philemon to replace the inner foam.
+- Mast: Check the mast ball and buttons with Charles, as they need replacement. Apply patches to the mast.
+- Spinnaker Boom: Repair or replace as it is broken.
+- Tiller Extension: Provide a new, longer tiller extension.
+-

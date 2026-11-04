@@ -1,0 +1,28 @@
+- [ ] Report for stove data - policy brief
+- [ ] Analysis of mangrove data
+- [ ] Report socioeconomic BNS BAF data
+- [ ] Report on [[ebMETT]]
+- [x] compile BES preliminary results
+- [ ] Report [[Sharks and Rays]]
+- [x] ⏫ clean SR kobo data ✅ 2025-07-28
+- [x] ⏫  socio-economic for HB ✅ 2023-10-13
+- [x] review report on Misali for HB ✅ 2024-05-06
+- [x] ⏫ review [[FPM methods and Marxan]] ✅ 2025-04-02
+- [x] islands visualization platform ✅ 2026-10-21
+- [x] ⏫ review Misali 3 report ✅ 2024-03-04
+- [x] DB Gabon Bleu fully online for sharing with Salum/Nassor ✅ 2023-11-14
+- [x] ⏫  Review of NOCAMO's product ✅ 2023-10-30
+- [x] ⏫  PPT data for TAFIRI (others?) ✅ 2023-10-30
+- [x] ⏫  PPT on ME for [[GFCR]] ✅ 2023-10-24
+- [x] 🔺 FPM analysis in Unguja
+- [x] 🔺 report on catch data for posters and meeting ✅ 2026-10-21
+- [x] 🔺 analysis of socioeconomic data in Pemba for report for SFCs ✅ 2023-12-04
+- [x] Review METT scores with graphs ✅ 2024-03-04
+- [x] BNS and NRGT score with new data ✅ 2024-03-04
+- [x] Sharks updating species names and downloading images ✅ 2026-10-21
+- [ ] Analysis on catch (Kizimkazi, Mkokotoni, Moa, Ndumbani, Mkoani, fumba, Msuka, Wesha)
+- [ ] prepare posters on catch data for presentations
+- [ ] Latham report - Internal
+- [ ] Paper FPM review
+- [ ] Template for policy brief
+- \[ ]

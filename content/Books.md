@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01
-modified: 2026-11-03T19:17:31.666Z
+modified: 2026-11-04T15:05:15.079Z
 published: 1970-01-01
 category:
   - personal
@@ -51,13 +51,13 @@ temporary: false
 
 - The Book of Life: Daily Meditations with Krishnamurti
 
-- **Business:** _The ONE Thing_ by Gary Keller
+- Business: _The ONE Thing_ by Gary Keller
 
-- **Health:** _The Story of the Human Body_ by Daniel E. Lieberman
+- Health: _The Story of the Human Body_ by Daniel E. Lieberman
 
-- **Love & Romance:** _Evolutionary Psychology: The New Science of the Mind_ by Dr. David M. Buss
+- Love & Romance: _Evolutionary Psychology: The New Science of the Mind_ by Dr. David M. Buss
 
-- **Happiness:** _Civilization and Its Discontents_ by Sigmund Freud
+- Happiness: _Civilization and Its Discontents_ by Sigmund Freud
 
 - Adrift - Steven Callahan: lost at sea
 

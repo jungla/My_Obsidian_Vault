@@ -1,23 +1,21 @@
 ---
 publish: true
-created: <% tp.date.now('YYYY-MM-DD HH:mm') %>
-modified: 2026-09-04T09:25:03.954Z
-published: <% tp.date.now('YYYY-MM-DD HH:mm') %>
+created: 2026-04-04
+modified: 2026-11-04T14:59:09.773Z
+published: 2026-04-04
 category:
   - personal
   - work
   - productivity
-date: <% tp.date.now('YYYY-MM-DD HH:mm') %>
+date: 2026-04-04
 reviewed: false
 rating:
-temporary: true
+temporary: false
 AI:
 country:
   - Tanzania
 ---
 
-read my emails and meeting minutes to maintain a record of project implementation status
-
-make a Gemini notebook with all my downloaded papers that I can query
-
-make a gem for each of my ongoing papers
+- read my emails and meeting minutes to maintain a record of project implementation status
+- make a Gemini notebook with all my downloaded papers that I can query
+- make a gem for each of my ongoing papers

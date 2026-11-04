@@ -8,6 +8,9 @@ configuration:
     provider: plausible
   locale: en-US
   baseUrl: jungla.github.io/My_Obsidian_Vault
+  markdownAndHTMLFileExtensions:
+    - md
+    - base
   ignorePatterns:
     - private
     - templates
@@ -281,4 +284,8 @@ layout:
       positions:
         right: []
     canvas: {}
-    bases: {}
+    bases:
+      exclude:
+        - reader-mode
+      positions:
+        right: []

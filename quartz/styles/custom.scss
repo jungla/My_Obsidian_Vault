@@ -29,8 +29,31 @@ body, p, li {
   line-height: var(--lineHeight) !important;
 }
 
-/* Add generous vertical spacing between paragraphs, lists, and headings */
-p, ul, ol, blockquote, table {
-  margin-top: 1em !important;
-  margin-bottom: 1.5em !important;
+:root {
+  /* Scale down core font sizes */
+  --fontSize: 0.9375rem; /* ~15px base body font size */
+}
+
+/* Base Body Text */
+body, p, li, span, a, input, button {
+  font-size: var(--fontSize) !important;
+}
+
+/* Proportional Header Scaling */
+.page-title {
+  font-size: 1.35rem !important;
+}
+
+.article-title {
+  font-size: 1.75rem !important;
+}
+
+h1 { font-size: 1.5rem !important; }
+h2 { font-size: 1.25rem !important; }
+h3 { font-size: 1.1rem !important; }
+h4, h5, h6 { font-size: 0.95rem !important; }
+
+/* Code Blocks & Inline Code */
+code, pre, kbd {
+  font-size: 0.85rem !important;
 }

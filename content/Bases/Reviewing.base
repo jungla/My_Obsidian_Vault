@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: View
+    order:
+      - file.name
+      - reviewed
+  - type: kanban
+    name: View 2

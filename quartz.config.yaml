@@ -7,39 +7,39 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: jungla.github.io/myobsidianvault
+  baseUrl: jungla.github.io/my_obsidian_vault
   ignorePatterns:
     - private
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
-    cdnCaching: true
-    typography:
-      header: Inter
-      body: Inter
-      code: JetBrains Mono
-    colors:
-      lightMode:
-        light: "#f8fafc"          # Snow/Slate Tint (Soft, bright backdrop)
-        lightgray: "#e2e8f0"      # Glacial Line (Clean, faint divider lines)
-        gray: "#64748b"           # Soft slate text
-        darkgray: "#1e293b"       # Polar Night (Deep, highly readable charcoal slate)
-        dark: "#0f172a"           # Deep dark headers
-        secondary: "#2563eb"      # Frost Blue (Clean, striking functional link color)
-        tertiary: "#3b82f6"       # Ice Blue (Brighter hover contrast)
-        highlight: "#eff6ff"      # Subtle structural block highlight
-        textHighlight: "#fff23688"
-      darkMode:
-        light: "#0f172a"          # Deep Arctic Night (Dark slate canvas)
-        lightgray: "#1e293b"      # Night Slate Line (Low-profile framing lines)
-        gray: "#94a3b8"           # Frosted slate text
-        darkgray: "#f1f5f9"       # Clean Frost (Crisp, bright text prevents eye strain)
-        dark: "#ffffff"           # Bright white headers
-        secondary: "#60a5fa"      # Aurora Blue (Luminous but soft link accent)
-        tertiary: "#93c5fd"       # Light Ice (Dimmed highlight state)
-        highlight: "#1e293b"      # Low-contrast background container tint
-        textHighlight: "#b3aa0288"
+  fontOrigin: googleFonts
+  cdnCaching: true
+  typography:
+    header: "Schibsted Grotesk"
+    body: "Source Sans Pro"
+    code: "IBM Plex Mono"
+  colors:
+    lightMode:
+      light: "#faf8f8"
+      lightgray: "#e5e5e5"
+      gray: "#b8b8b8"
+      dark: "#4e4e4e"
+      darkgray: "#2b2b2b"
+      secondary: "#284b63"
+      tertiary: "#84a98c"
+      highlight: "rgba(143, 159, 169, 0.15)"
+      textHighlight: "#fff23688"
+    darkMode:
+      light: "#161618"
+      lightgray: "#393639"
+      gray: "#646464"
+      dark: "#d4d4d4"
+      darkgray: "#ebebec"
+      secondary: "#7b97aa"
+      tertiary: "#84a98c"
+      highlight: "rgba(143, 159, 169, 0.15)"
+      textHighlight: "#b3bab026"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true

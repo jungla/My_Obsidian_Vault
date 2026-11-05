@@ -1,3 +1,26 @@
+/* 1. Force load Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+/* 2. Override Quartz CSS Custom Properties */
+:root {
+  --headerFont: "Merriweather", Georgia, serif !important;
+  --bodyFont: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  --codeFont: "IBM Plex Mono", monospace !important;
+}
+
+/* 3. Lock elements to theme variables */
+body, p, li, span, a, input, button {
+  font-family: var(--bodyFont) !important;
+}
+
+h1, h2, h3, h4, h5, h6, .page-title, .article-title {
+  font-family: var(--headerFont) !important;
+}
+
+code, pre, kbd {
+  font-family: var(--codeFont) !important;
+}
+
 @use "./variables.scss" as *;
 
 // put your custom CSS here!

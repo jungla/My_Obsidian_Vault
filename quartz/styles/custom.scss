@@ -19,3 +19,24 @@ code, pre, kbd {
   font-family: var(--codeFont) !important;
 }
 
+
+/* Increase vertical spacing across body text and headers */
+:root {
+  --lineHeight: 1.75; /* Quartz default is typically ~1.5 */
+}
+
+body, p, li {
+  line-height: var(--lineHeight) !important;
+}
+
+/* Add generous vertical spacing between paragraphs, lists, and headings */
+p, ul, ol, blockquote, table {
+  margin-top: 1em !important;
+  margin-bottom: 1.5em !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.35 !important;
+  margin-top: 2em !important;
+  margin-bottom: 0.75em !important;
+}

@@ -1,48 +1,38 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+# Quartz v3 Configuration - Nordic-Clean Theme
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
-  enableSPA: true
-  enablePopovers: true
-  analytics:
-    provider: plausible
-  locale: en-US
-  baseUrl: jungla.github.io/My_Obsidian_Vault
-  markdownAndHTMLFileExtensions:
-    - md
-    - base
-  ignorePatterns:
-    - private
-    - templates
-    - .obsidian
-  theme:
-    fontOrigin: googleFonts
-    cdnCaching: true
-    typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
-    colors:
-      lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
-      darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+  pageTitle: "Digital Garden"
+  enableRSS: true
+  enableSearching: true
+  enableLinkPreview: true
+
+params:
+  theme: "nordic-clean"
+  
+  # Typography for a sharp, modern editorial look
+  fontFamily:
+    headers: '"Inter", "SF Pro Display", -apple-system, sans-serif'
+    body: '"Inter", "SF Pro Text", -apple-system, system-ui, sans-serif'
+    code: '"JetBrains Mono", "Fira Code", monospace'
+
+  # Nordic Color Palette (Snow, Polar Night, Frost, and Ice)
+  colors:
+    lightMode:
+      background: "#f8fafc"      # Snow/Slate Tint (Soft, bright backdrop)
+      text: "#1e293b"            # Polar Night (Deep, highly readable charcoal slate)
+      links: "#2563eb"           # Frost Blue (Clean, striking functional link color)
+      hover: "#3b82f6"           # Ice Blue (Brighter hover contrast)
+      borders: "#e2e8f0"         # Glacial Line (Clean, faint divider lines)
+      highlight: "#eff6ff"       # Subtle structural block highlight
+      
+    darkMode:
+      background: "#0f172a"      # Deep Arctic Night (Dark slate canvas, less harsh than pure black)
+      text: "#f1f5f9"            # Clean Frost (Crisp, bright text that prevents eye strain)
+      links: "#60a5fa"           # Aurora Blue (Luminous but soft link accent)
+      hover: "#93c5fd"           # Light Ice (Dimmed highlight state)
+      borders: "#1e293b"         # Night Slate Line (Low-profile framing lines)
+      highlight: "#1e293b"       # Low-contrast background container tint
+
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true

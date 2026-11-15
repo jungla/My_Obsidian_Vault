@@ -1,13 +1,14 @@
 ---
 publish: true
-created: <% tp.date.now('YYYY-MM-DD HH:mm') %>
-modified: 2026-09-04T12:24:00.596Z
-published: <% tp.date.now('YYYY-MM-DD HH:mm') %>
+created: 2026-11-06
+modified: 2026-11-06T20:45:36.395Z
+published: 2026-11-06
 category:
   - personal
   - writings
   - ai
-date: <% tp.date.now('YYYY-MM-DD HH:mm') %>
+  - work
+date: 2026-11-06
 reviewed: false
 rating:
 temporary: true
@@ -16,7 +17,7 @@ country:
   - Tanzania
 ---
 
-AI is over hoped because,
+AI is overhy hoped because,
 
 cannot write more than 5 pages of coherent text. getting to 10s of pages will require exponentially more compute.
 

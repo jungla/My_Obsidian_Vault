@@ -1,25 +1,23 @@
 ---
 publish: true
 created: 2026-11-06
-modified: 2026-11-06T06:18:08.159Z
+modified: 2026-11-06T20:45:46.777Z
 published: 2026-11-06
 category:
-  - work
   - research
+  - work
 date: 2026-11-06
 people:
 country:
   - Tanzania
 topic:
   - coral reefs
-  - small scale fisheries
-  - governance
-  - climate change
 status:
   - idea
-  - incomplete draft
-  - full draft
-  - final
+reviewed: true
+rating: 5
+temporary: true
+AI: true
 ---
 
 # Manuscript Review & Structural Enhancement Plan

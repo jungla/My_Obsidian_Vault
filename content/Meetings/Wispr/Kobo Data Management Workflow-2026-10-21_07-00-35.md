@@ -2,14 +2,15 @@
 publish: true
 title: Kobo Data Management Workflow
 created: 2026-10-21T07:00:35.968Z
-modified: 2026-10-21T08:28:58.129Z
-published: 2026-11-02T19:31:51.961Z
+modified: 2026-11-15T20:09:45.176Z
+published: 2026-11-18T11:03:31.252Z
 wispr_id: e24220d3-d2d5-4104-b730-731e6b52c16e
 type: note
-updated: 2026-10-21T08:28:58.129Z
+updated: 2026-11-15T20:09:45.176Z
 duration: 1h 13m
 speakers:
   - Bennett
+  - Jean Mensa
 source: wispr-flow
 ---
 
@@ -52,5 +53,3 @@ source: wispr-flow
 
 - Pipeline only needs to download the first version of each Kobo record
 - Demo scope limited to data QC streamlining and species verification, not analytics
-
-[[Meetings/Wispr/Transcripts/Kobo Data Management Workflow-2026-10-21_07-00-35-transcript]]

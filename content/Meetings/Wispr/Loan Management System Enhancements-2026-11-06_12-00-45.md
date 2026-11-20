@@ -2,14 +2,15 @@
 publish: true
 title: Loan Management System Enhancements
 created: 2026-11-06T12:00:45.725Z
-modified: 2026-11-06T12:42:26.364Z
-published: 2026-11-14T16:14:26.843Z
+modified: 2026-11-15T20:07:34.569Z
+published: 2026-11-18T11:03:31.268Z
 wispr_id: 3c934c27-1bae-46fb-bc35-bc6e88355799
 type: note
-updated: 2026-11-06T12:42:26.364Z
+updated: 2026-11-15T20:07:34.569Z
 duration: 40m
 speakers:
   - Chipanha
+  - Jean Mensa
 source: wispr-flow
 ---
 
@@ -32,11 +33,11 @@ source: wispr-flow
 
 ### Interface Options: Softer vs Eco-Connect
 
-- Speaker 2 showed Softer, a free-for-small-teams AI tool building dashboards and entry forms over Google Sheets
+- Jean Mensa showed Softer, a free-for-small-teams AI tool building dashboards and entry forms over Google Sheets
 - Chipanha demoed Eco-Connect, built on Supabase and hosted on Vercel, with language switching and real imported data
 - Eco-Connect has dashboard, groups, members, savings/repayments, loans, loan applications, SMS, banking, reports, administration
   - SMS meant for group leader reminders; planned mobile app limits leaders to their own group
-- Speaker 2 called it exactly what is needed, but wants it linked to Google Sheets, and WCS emails used for accounts
+- Jean Mensa called it exactly what is needed, but wants it linked to Google Sheets, and WCS emails used for accounts
 
 ### Eco-Connect Feedback
 
@@ -47,11 +48,11 @@ source: wispr-flow
 ### Next Steps
 
 - (Chipanha) Update spreadsheet: repayment percentage, UUID in column A, loan count per individual, expanded business loan reasons
-- (Chipanha) Invite Speaker 2 to the Vercel project
+- (Chipanha) Invite Jean Mensa to the Vercel project
 - (Chipanha) Restructure Eco-Connect pages, add auto transaction ID, rename SMS to reminders, move bank info under groups
-- (Chipanha) Import Excel into Google Sheets using WCS email and share the link with Speaker 2
+- (Chipanha) Import Excel into Google Sheets using WCS email and share the link with Jean Mensa
 - (Chipanha) Adapt Eco-Connect to read from the finalized Google Sheet, ideally before next week's Tanga training
-- (Speaker 2) Clean up the shared spreadsheet (table titles, proper English) and confirm when final
+- (Jean Mensa) Clean up the shared spreadsheet (table titles, proper English) and confirm when final
 
 ### Decisions Made
 

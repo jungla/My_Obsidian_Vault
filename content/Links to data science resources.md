@@ -1,17 +1,20 @@
 ---
 publish: true
-created: <% tp.date.now('YYYY-MM-DD HH:mm') %>
-modified: 2026-09-04T09:10:21.482Z
-published: <% tp.date.now('YYYY-MM-DD HH:mm') %>
+created: 1970-01-01
+modified: 2026-11-20T06:08:18.549Z
+published: 1970-01-01
 category:
   - work
   - data
-date: <% tp.date.now('YYYY-MM-DD HH:mm') %>
+date: 1970-01-01
 reviewed: false
 rating:
 temporary: false
 AI: false
 ---
+
+great gallery of plots and tools (in JS, but apparently Altiar can do similar stuff). I was thinking of passing this to AI together with a paper to get some ideas on how to be more creative in the visualizations.
+https://www.react-graph-gallery.com/
 
 creating colorbars and visualization
 https://blog.datawrapper.de/color-keys-for-data-visualizations/

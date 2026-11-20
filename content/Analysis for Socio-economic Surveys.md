@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2024-01-01
-modified: 2026-09-04T08:53:54.677Z
+modified: 2026-11-15T20:54:07.379Z
 published: 2024-01-01
 category:
   - work
@@ -26,7 +26,7 @@ status:
 ---
 
 BAF indicators - ???
-Management [[questions]],
+Management questions,
 
 - are fishers willing to convert to other livelihoods?
 - are they supportive of fishery closures?

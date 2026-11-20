@@ -26,7 +26,7 @@ Co-management history,
 - Marine Park in Mafia created strong opposition
 - Somanga was the first BMU in 2009
 - In 2014 and 2016, all the other CFMAs were created (SOMAKI and KIRULINA)
-- All CFMAs have co-management plans, some of them expiring soon. They were developed by SeaSense, AFO, IUCN, WWF.
+- All CFMAs have co-management plans, some of them expiring soon. They were developed by SeaSense, AFO, IUCN, and WWF.
 - The BMUs have bylaws that they can enforce. If it's a violation of the fishery regulations, they transfer the evidence to the fishery officers.
 - CFMA only does coordination. The BMU does most of the work. Including MCS. The CFMA checks whether the BMU is good at managing the finances, for example. It is also responsible for conflict resolution.
 
@@ -76,7 +76,7 @@ We went to the ruins a bit further away in Songo Mnara. The ruins are a good vis
 
 We went snorkeling. The first site was very close to the island with poor visibility and lots of sedimentation. The reef was shallow with lots of seagrass and some bommies. Ideal site for an octopus closure. Lots of fishers in the area. They told us that there is a temporary closure nearby.
 
-We also went to a second site further down, close to the open ocean. Much better visibility, with a very nice, extensive coral cover. Low fish density with some large fish at depth. This is their nursery site, but it's abandoned. The coral is dense with low rugosity and likely would not hold much fish.
+We also went to a second site further down, close to the open ocean. Much better visibility, with a very nice, extensive coral cover. Low fish density with some large fish at depth. This is their nursery site, but it's abandoned. The coral is dense with low rugosity and likely would not hold many fish.
 
 ### Way Forward
 
@@ -120,13 +120,13 @@ They can take spearguns and not monofilament.
 
 Sources of funding come from dago fishers paying rent,  and the 2% tax, they also keep some of the infractions and get funding from the octopus closure.
 
-How are revenues accounted for? They have 250 members, they have guidelines, every 6months they report back to the BMU. Also, after they open the octopus the meet to report back on the revenues.
+How are revenues accounted for? They have 250 members; they have guidelines; every 6months they report back to the BMU. Also, after they open the octopus the meet to report back on the revenues.
 
-they have a conflict, they have a system to resolve them.
+They have a conflict; they have a system to resolve it.
 
-Since they are doing patrols for a long time, how are things going? improving or not? They have the problem that illegal fishers come from all around. Illegal fishing goes up and down, depending on how often they do that. Most fishers come from far so it's hard to educate them.
+Since they are doing patrols for a long time, how are things going? Improving or not? They have the problem that illegal fishers come from all around. Illegal fishing goes up and down, depending on how often they do that. Most fishers come from far so it's hard to educate them.
 
-They idea is to have coordination in the CFMA. Is this working? patrols shold be in the CFMA.
+The idea is to have coordination in the CFMA. Is this working? Patrols should be in the CFMA.
 
 The CFMA does not have the finances to support the patrols. They are just reporting on the patrols. They need to capacitate the CFMA to be able to support joint operations.
 

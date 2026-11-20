@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-01-01
-modified: 2026-09-04T08:26:20.483Z
+modified: 2026-11-17T14:12:12.102Z
 published: 2025-01-01
 category:
   - personal
@@ -12,7 +12,7 @@ rating: 2
 temporary: false
 ---
 
-My plan for now is to build an aquarium inspired by the mangrove we go fishing with Leone. In this way, I can go and collect plants and animals directly from the mangroves and have a setup where I can observe how the behave and live.
+My plan for now is to build an aquarium inspired by the mangrove we go fishing in with Leone. In this way, I can go and collect plants and animals directly from the mangroves and have a setup where I can observe how the behave and live.
 
 For now, I thought of having,
 

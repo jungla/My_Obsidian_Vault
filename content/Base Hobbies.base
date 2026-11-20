@@ -4,3 +4,8 @@ views:
     filters:
       and:
         - category.contains("hobbies")
+  - type: kanban
+    name: View
+    groupBy:
+      property: country
+      direction: ASC
